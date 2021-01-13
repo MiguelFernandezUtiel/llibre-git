@@ -1,4 +1,5 @@
 Capitol1:Introducció a Git
 Capitol2:Flux de treball bàsic
-Capitol3:Repositoris remots
+Capitol3:Gestió de branques
+Capitol4:Repositoris remots
 
